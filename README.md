@@ -18,4 +18,3 @@ func main() {
 >  go build
 
 > go run hello.go
-
